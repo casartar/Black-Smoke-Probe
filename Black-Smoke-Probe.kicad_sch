@@ -9,6 +9,7 @@
 		(date "2025-04-05")
 		(rev "v1.1")
 		(company "@casartar")
+		(comment 1 "License: CC-BY-SA 4.0")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_ARM_JTAG_SWD_10"
