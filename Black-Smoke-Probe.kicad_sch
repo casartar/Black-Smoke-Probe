@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Black-Smoke-Probe")
-		(date "2025-04-05")
-		(rev "v1.1")
+		(date "2025-04-14")
+		(rev "v1.1.1")
 		(company "@casartar")
 		(comment 1 "License: CC-BY-SA 4.0")
 	)
@@ -11781,7 +11781,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" " C19702"
+		(property "LCSC Part" "C19702"
 			(at 66.675 81.915 0)
 			(effects
 				(font
@@ -12241,7 +12241,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "30pF"
 			(at 35.56 129.54 90)
 			(effects
 				(font
@@ -12277,7 +12277,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C14663 "
+		(property "LCSC Part" "C1658 "
 			(at 27.94 127 0)
 			(effects
 				(font
@@ -13292,7 +13292,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" " C2682775"
+		(property "LCSC Part" "C2682775"
 			(at 31.75 121.92 0)
 			(effects
 				(font
@@ -13453,7 +13453,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" " C86295"
+		(property "LCSC Part" "C86295"
 			(at 88.265 81.915 0)
 			(effects
 				(font
